@@ -1,5 +1,9 @@
 # blockchain
 
+Frontend based on https://github.com/daitan-innovation/ethereum-supply-chain
+added and update functionality
+
+
 Setup and Running
 The contract logic, migrations and tests use Truffle and Ganache as basic environment, so first and foremost:
 
